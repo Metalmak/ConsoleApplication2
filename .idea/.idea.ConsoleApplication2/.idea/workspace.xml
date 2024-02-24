@@ -4,11 +4,24 @@
     <projectFile>ConsoleApplication2/ConsoleApplication2.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0edd046c-b852-40b7-b3cc-6c0b5bce3c78" name="Default Changelist" comment="" />
+    <list default="true" id="0edd046c-b852-40b7-b3cc-6c0b5bce3c78" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ConsoleApplication2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ConsoleApplication2/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="NewBranch_1" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock://C:/Users/MAKS/RiderProjects/ConsoleApplication2/ConsoleApplication2/Program.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -18,6 +31,7 @@
     </option>
   </component>
   <component name="ProjectId" id="2cjTVt97aT2JQOytOnjiBtElKvI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -56,8 +70,16 @@
       <option name="presentableId" value="Default" />
       <updated>1708624014903</updated>
       <workItem from="1708624017028" duration="336000" />
-      <workItem from="1708794646260" duration="362000" />
+      <workItem from="1708794646260" duration="1113000" />
     </task>
+    <task id="LOCAL-00001" summary="add text">
+      <created>1708795370818</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708795370818</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -67,11 +89,25 @@
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="add text" />
+    <option name="LAST_COMMIT_MESSAGE" value="add text" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="490" y="429" key="Github.ShareDialog" timestamp="1708795132743">
+      <screen x="0" y="40" width="1280" height="984" />
+    </state>
+    <state x="490" y="429" key="Github.ShareDialog/0.40.1280.984/-1280.40.1280.984@0.40.1280.984" timestamp="1708795132743" />
+    <state x="412" y="237" key="Github.UntrackedFilesDialog" timestamp="1708795166626">
+      <screen x="0" y="40" width="1280" height="984" />
+    </state>
+    <state x="412" y="237" key="Github.UntrackedFilesDialog/0.40.1280.984/-1280.40.1280.984@0.40.1280.984" timestamp="1708795166626" />
     <state x="-1048" y="263" key="Rider.ProjectTemplateDialog.Size" timestamp="1708624014575">
       <screen x="-1280" y="40" width="1280" height="984" />
     </state>
     <state x="-1048" y="263" key="Rider.ProjectTemplateDialog.Size/0.40.1280.984/-1280.40.1280.984@-1280.40.1280.984" timestamp="1708624014575" />
+    <state x="232" y="251" key="Vcs.Push.Dialog.v2" timestamp="1708795377840">
+      <screen x="0" y="40" width="1280" height="984" />
+    </state>
+    <state x="232" y="251" key="Vcs.Push.Dialog.v2/0.40.1280.984/-1280.40.1280.984@0.40.1280.984" timestamp="1708795377840" />
   </component>
 </project>
